@@ -1,0 +1,6 @@
+[submodule "AhkUtil"]
+	path = AhkUtil
+	url = https://github.com/tuckn/AhkUtil.git
+[submodule "AhkJson"]
+	path = AhkJson
+	url = https://github.com/tuckn/AhkJson.git
